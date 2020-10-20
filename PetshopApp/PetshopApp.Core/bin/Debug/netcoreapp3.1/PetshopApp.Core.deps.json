@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PetshopApp.Core/1.0.0": {
+        "dependencies": {
+          "PetshopApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "PetshopApp.Core.dll": {}
+        }
+      },
+      "PetshopApp.Core.Entity/1.0.0": {
+        "runtime": {
+          "PetshopApp.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetshopApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetshopApp.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

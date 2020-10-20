@@ -1,0 +1,9 @@
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\bin\Debug\netcoreapp3.1\PetshopApp.Core.Entity.deps.json
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\bin\Debug\netcoreapp3.1\PetshopApp.Core.Entity.dll
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.csprojAssemblyReference.cache
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.AssemblyInfo.cs
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\bin\Debug\netcoreapp3.1\PetshopApp.Core.Entity.pdb
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.dll
+D:\Documentos\GitHub\PetshopApp\PetshopApp\PetshopApp.Core.Entity\obj\Debug\netcoreapp3.1\PetshopApp.Core.Entity.pdb

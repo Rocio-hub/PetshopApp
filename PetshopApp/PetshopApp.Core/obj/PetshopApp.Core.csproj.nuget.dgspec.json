@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core\\PetshopApp.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\PetshopApp.Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\PetshopApp.Core.Entity.csproj",
+        "projectName": "PetshopApp.Core.Entity",
+        "projectPath": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\PetshopApp.Core.Entity.csproj",
+        "packagesPath": "C:\\Users\\Rocío\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rocío\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core\\PetshopApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core\\PetshopApp.Core.csproj",
+        "projectName": "PetshopApp.Core",
+        "projectPath": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core\\PetshopApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Rocío\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rocío\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\PetshopApp.Core.Entity.csproj": {
+                "projectPath": "D:\\Documentos\\GitHub\\PetshopApp\\PetshopApp\\PetshopApp.Core.Entity\\PetshopApp.Core.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
